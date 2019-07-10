@@ -5,6 +5,7 @@
     xmlns="https://getpsalm.org/schema/config"
     xsi:schemaLocation="https://getpsalm.org/schema/config vendor/vimeo/psalm/config.xsd"
 
+    errorBaseline="psalmbaseline.xml"
 >
     <projectFiles>
         <file name="1.php" />

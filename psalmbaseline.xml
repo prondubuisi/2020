@@ -5,5 +5,12 @@
       <code>$currentYear</code>
     </InvalidOperand>
   </file>
-  
+  <file src="2.php">
+    <TooManyArguments occurrences="1">
+      <code>checkGuess($randomGuess)</code>
+    </TooManyArguments>
+    <UndefinedVariable occurrences="1">
+      <code>$randomGuess</code>
+    </UndefinedVariable>
+  </file>
 </files>

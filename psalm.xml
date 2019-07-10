@@ -3,8 +3,8 @@
     totallyTyped="false"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="https://getpsalm.org/schema/config"
-    xsi:schemaLocation="https://getpsalm.org/schema/config vendor/vimeo/psalm/config.xsd"
-
+    xsi:schemaLocation="https://getpsalm.org/schema/config vendor/vimeo/psalm/config.xsd"s
+    errorBaseline="psalmbaseline.xml"
 >
     <projectFiles>
         <file name="1.php" />

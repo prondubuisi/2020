@@ -19,5 +19,5 @@ function checkGuess() {
     }
     echo $randomGuess;
     echo "Try again! Better luck next time.\n";
-    return 0;
+    return $rand;
 }
